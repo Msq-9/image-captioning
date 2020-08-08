@@ -36,4 +36,5 @@ the scene to the blind.
 - Images similar to a given picture could be found out by searching the predicted caption in an appropriate search engine.
 
 ## Pending work
-Accuracy & precision has to be measured, BLEU Score could be used to evaluate our results.
+- Accuracy & precision has to be measured, BLEU Score could be used to evaluate our results.
+- This model can be deployed in an appropriate web app.
