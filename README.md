@@ -34,3 +34,6 @@ However if we want to train on a larger dataset Flickr 30k which contains 30,000
 could be converted into a voice message with help of an appropriate API. This voice message could helpful in guiding or describing
 the scene to the blind.
 - Images similar to a given picture could be found out by searching the predicted caption in an appropriate search engine.
+
+## Pending work
+Accuracy & precision has to be measured, BLEU Score could be used to evaluate our results.
