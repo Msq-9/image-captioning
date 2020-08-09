@@ -31,7 +31,7 @@ Basic Deep Learning concepts like Multi-layered Perceptrons, CNN, RNN, Transfer 
 Dataset for this project has been collected from kaggle : https://www.kaggle.com/shadabhussain/flickr8k .
 This dataset contains around 8000 images and 5 captions per image.
 
-However if we want to train on a larger dataset [Flickr 30k](https://www.kaggle.com/hsankesara/flickr-image-dataset) which contains 30,000 images or MS COCO which contains 180,000 images.
+However if we want to train on a larger dataset [Flickr 30k](https://www.kaggle.com/hsankesara/flickr-image-dataset) which contains 30,000 images or [MS COCO](https://cocodataset.org/) which contains 180,000 images.
 
 ## Future scope
 - Assistive vision : Images could be captured in realtime, and the caption predicted through that image which describes the image 
