@@ -3,6 +3,10 @@
 ## Description
 Predicting caption for a given image using Deep Learning methods provided in keras library to create model architecture and training our model over the dataset.
 
+## Model Architecture
+
+![alt text](https://github.com/Msq-9/image-captioning/blob/master/model/image_caption_model.png?raw=true)
+
 ## Pipeline followed :
 1. Data Cleaning
 2. Data preprocesing (images & captions)
